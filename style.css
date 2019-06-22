@@ -1,0 +1,40 @@
+#vantajs{
+	height: 700px;
+	color: yellow;
+	font-family: lucida handwriting;
+}
+p.arr{
+	margin-top: 120px;
+}
+.navbar{
+	background-color: #164175;
+	border: none; 
+}
+.navbar-brand{
+	font-family: algerian;
+	font-size: 30px;
+}
+.navbar-brand:hover{
+	font-size: 40px;
+}
+#vantajs h1{
+ margin-top: 250px;
+
+}
+a{
+	color: yellow;
+}
+a:hover{
+	color: red;
+}
+
+div#section1{
+	margin-top: -30px;
+}
+div#section1,div#section2,div#section3,div#section4{
+background-color: #164175;
+color: yellow;
+}
+div#section1 h1,div#section2 h1,div#section3 h1,div#section4 h1{
+	font-family: algerian;
+}
